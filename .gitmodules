@@ -1,3 +1,3 @@
-[submodule "themes/aerohub/hugrid"]
-	path = themes/aerohub/hugrid
+[submodule "themes/hugrid"]
+	path = themes/hugrid
 	url = "https://github.com/aerohub/hugrid"
