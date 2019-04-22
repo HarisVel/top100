@@ -1,5 +1,5 @@
 # Site settings
-baseurl = ""
+baseurl = "top100.cannabisanalyst.org"
 languageCode = "en-us"
 title = "TOP 100 PRIVATE CANNABIS COMPANIES"
 theme = "hugrid"
