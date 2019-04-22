@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "Web Link"
 
     # Footer text
-    footertext = "Made by [Cannabis Analyst](www.cannabisanalyst.org)"
+    footertext = "Made by [Cannabis Analyst](https://www.cannabisanalyst.org)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
