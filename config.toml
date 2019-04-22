@@ -26,7 +26,7 @@ publishdir = "public"
     buttontext = "Web Link"
 
     # Footer text
-    footertext = "Made by [Cannabis Analyst](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/)"
+    footertext = "Made by [Cannabis Analyst](www.cannabisanalyst.org)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
