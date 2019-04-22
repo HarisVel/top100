@@ -14,9 +14,9 @@ publishdir = "public"
 [params]
     # Meta
     title = "TOP 100 PRIVATE CANNABIS COMPANIES 2018"
-    subtitle = "The list comprises privately held companies, primarily U.S. companies."
+    subtitle = "The list comprises privately held companies, primarily U.S. companies. Determination to include companies on the list is subjective, and the list is intended to be a cross-section of the types of companies in the cannabis industry. Most companies on this list are in early stages of development, and many will need to raise capital to succeed."
     author = "CANNAHARIS"
-    description = "Determination to include companies on the list is subjective, and the list is intended to be a cross-section of the types of companies in the cannabis industry. Most companies on this list are in early stages of development, and many will need to raise capital to succeed."
+    description = ""
     keywords = "private, cannabis, companies, business"
 
     # Body background color
